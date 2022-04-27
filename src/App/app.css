@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.HeroSection {
+  background-image: url('../assets/game_play.jpg');
+}
